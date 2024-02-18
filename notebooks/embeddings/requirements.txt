@@ -1,6 +1,8 @@
 openai
 pandas
 regex
-nump
+numpy
 scipy
 gensim
+scikit-learn
+matplotlib
